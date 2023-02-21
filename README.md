@@ -3,7 +3,7 @@ A simple task board made with the Laravel framework using what was learned in my
 
 The main focus of this project is mostly the backend rather than the frontend, hence why the '/home' route is the only one with visual modifications.
 
-![Screenshot from 2023-02-11 13-21-33](https://user-images.githubusercontent.com/123499791/218281737-cd5f0820-c1e2-47e0-b96d-1c6ddc63ee27.png)
+![Screenshot from 2023-02-21 16-36-00](https://user-images.githubusercontent.com/123499791/220470080-e823b615-dc0b-428f-bd66-bc3f2d8fa776.png)
 
 ## What does it do
 - User creation with login/logout
