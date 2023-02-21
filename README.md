@@ -1,7 +1,7 @@
 # Laravel Task Board
-A task board made with Laravel, which is an ongoing project that mostly serves as a 'learning exercice' to put in practice what I learned in my Laravel class.
+A simple task board made with the Laravel framework using what was learned in my class.
 
-This means that the main focus of this project is mostly the backend rather than the frontend.
+The main focus of this project is mostly the backend rather than the frontend, hence why the '/home' route is the only one with visual modifications.
 
 ![Screenshot from 2023-02-11 13-21-33](https://user-images.githubusercontent.com/123499791/218281737-cd5f0820-c1e2-47e0-b96d-1c6ddc63ee27.png)
 
